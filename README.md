@@ -1,4 +1,4 @@
-## This an web application which act as a blog of african toursim site
+# KIND BLOG
 the travelers will be able to create account where they can post, and react to others posts.
 
 # Authors:
